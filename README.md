@@ -1,4 +1,4 @@
-# Gladi Lingkaran Persegi <br> Memahami PHP Interfaces dan Polimorfisme
+# Gladi Lingkaran Persegi <br> Memahami PHP Interfaces dan Polymorphism
 
 ## Target Peserta
 

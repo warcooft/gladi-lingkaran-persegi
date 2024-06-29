@@ -1,6 +1,6 @@
 <?php
 
-namespace Practice\LingkaranPersegi\Interfaces;
+namespace Gladi\LingkaranPersegi\Interfaces;
 
 interface BentukInterface
 {

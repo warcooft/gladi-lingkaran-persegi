@@ -1,8 +1,8 @@
 <?php
 
-namespace Practice\LingkaranPersegi;
+namespace Gladi\LingkaranPersegi;
 
-use Practice\LingkaranPersegi\Interfaces\BentukInterface;
+use Gladi\LingkaranPersegi\Interfaces\BentukInterface;
 
 class Lingkaran implements BentukInterface
 {

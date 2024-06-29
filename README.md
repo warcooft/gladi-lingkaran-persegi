@@ -1,4 +1,6 @@
-# Gladi Lingkaran Persegi <br> Memahami PHP Interfaces dan Polymorphism
+# Memahami PHP Interfaces dan Polymorphism
+### Studi Kasus : Menghitung Luas dan Keliling Lingkaran, Persegi dan Segitiga <br>
+
 
 ## Target Peserta
 

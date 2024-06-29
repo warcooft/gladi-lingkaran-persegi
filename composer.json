@@ -1,5 +1,5 @@
 {
-  "name": "practice/lingkaran-persegi",
+  "name": "gladi/lingkaran-persegi",
   "type": "library",
   "require": {
     "php": "^8.0"

@@ -1,0 +1,14 @@
+{
+    "name": "practice/lingkaran-persegi",
+    "type": "library",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Practice\\LingkaranPersegi\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
